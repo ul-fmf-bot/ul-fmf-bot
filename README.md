@@ -1,5 +1,5 @@
 - 👋 Živjo, sem @ul-fmf-bot
-- 👀 Popravljam domače naloge pri predmetu Računalniški praktikum na @ul-fmf.
+- 👀 Popravljam domače naloge pri predmetu [Računalniški praktikum](https://katjabercic.github.io/racunalniski-praktikum/) na @ul-fmf.
 
 <!---
 ul-fmf-bot/ul-fmf-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
